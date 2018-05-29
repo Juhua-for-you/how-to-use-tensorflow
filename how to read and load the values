@@ -5,6 +5,10 @@ Created on Tue May 29 09:57:44 2018
 @author: 王浚宇
 """
 
+##why I build this one
+Recently, I've been confused how to save the outcomes because I used to train it every time I use it
+but now I just figure out some way to realize this
+
 import tensorflow as tf
 
 # Remove the previous weights and bias
